@@ -11,7 +11,7 @@ public class HelloWorld {
         System.out.println("test1...");
     }
 
-
-
+    public void test2() {
+    }
 
 }
