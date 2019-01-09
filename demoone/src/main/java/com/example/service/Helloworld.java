@@ -7,4 +7,8 @@ package com.example.service;
  * @since: 1.0.0
  **/
 public interface Helloworld {
+  
+  public void test2() {
+    System.out.println("test2....");
+  }
 }
