@@ -7,4 +7,7 @@ package com.example.controller;
  * @since: 1.0.0
  **/
 public class HelloWorld {
+    public void test1() {
+        System.out.println("test1...");
+    }
 }
